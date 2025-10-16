@@ -61,7 +61,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModulePhysics.cs" />
+    <Compile Include="Assets\Scripts\BulletScript.cs" />
     <Compile Include="Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
+    <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
     <Compile Include="Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUI.cs" />
     <Compile Include="Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUtils.cs" />
